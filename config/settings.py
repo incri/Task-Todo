@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     # Installed Apps
     "rest_framework",
     "djoser",
+    "django_filters",
     # Apps
     "task",
 ]
