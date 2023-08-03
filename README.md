@@ -1,6 +1,6 @@
 # Task Todo
 
-Task Todo is a simple and user-friendly web application that allows you to manage your tasks and to-do lists efficiently. With Task Todo, you can organize your daily tasks and mark completed tasks.
+Task Todo is a simple collection of endpoints that allows you to manage your tasks and to-do lists efficiently. With Task Todo, you can organize your daily tasks and mark completed tasks.
 
 ## Live Demo
 
